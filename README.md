@@ -21,9 +21,57 @@ This section details the milestones a developer actively progresses through, ste
 ### Tech Stack Grid
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,cs,php,ruby,react,nextjs,vue,angular,svelte,tailwind,bootstrap,express,nestjs,spring,dotnet,mongodb,mysql,postgres,sqlite,redis,firebase,supabase,prisma,aws,gcp,azure,vercel,netlify,heroku,cloudflare,docker,kubernetes,git,github,gitlab,linux,ubuntu,windows,apple,vscode,figma,postman,vite,webpack&perline=12" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,figma,nodejs,express,java,spring,dotnet,firebase,postgres,mysql,docker,vscode,postman,git,github,androidstudio&perline=10" />
   </a>
 </p>
+
+<table>
+<tr><td valign="top" width="50%">
+
+**Frontend & Design**
+* React.js
+* Next.js
+* TypeScript
+* JavaScript (ES6+)
+* Tailwind CSS
+* Figma
+* HTML5 Canvas
+* Responsive UI/UX
+
+**Databases & Data Management**
+* Firebase (NoSQL)
+* PostgreSQL
+* MySQL
+* SQL Server
+
+</td><td valign="top" width="50%">
+
+**Backend & Systems**
+* Node.js
+* Express.js
+* Java / Spring
+* C# / .NET
+* Microservices
+* RESTful API Design
+* FFmpeg Engine
+* Web Audio API
+* WebGPU / ONNX Runtime
+* Vision Transformers (ViT)
+
+**Hosting & Cloud Deployment**
+* Firebase / Cloud
+* Vercel / Next.js
+* GitHub Pages
+
+**Professional Tooling Suite**
+* Docker / Container
+* VS Code
+* Postman
+* Git / GitHub
+* Android Studio
+
+</td></tr>
+</table>
 
 ### Developer Metrics
 
