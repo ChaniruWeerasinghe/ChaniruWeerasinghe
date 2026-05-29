@@ -62,6 +62,7 @@ This section details the milestones a developer actively progresses through, ste
 * Firebase / Cloud
 * Vercel / Next.js
 * GitHub Pages
+* GoDaddy
 
 **Professional Tooling Suite**
 * Docker / Container
