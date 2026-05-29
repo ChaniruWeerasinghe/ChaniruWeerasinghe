@@ -21,7 +21,7 @@ This section details the milestones a developer actively progresses through, ste
 ### Tech Stack Grid
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,java,dotnet,mongodb,mysql,figma,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,cs,php,ruby,react,nextjs,vue,angular,svelte,tailwind,bootstrap,express,nestjs,spring,dotnet,mongodb,mysql,postgres,sqlite,redis,firebase,supabase,prisma,aws,gcp,azure,vercel,netlify,heroku,cloudflare,docker,kubernetes,git,github,gitlab,linux,ubuntu,windows,apple,vscode,figma,postman,vite,webpack&perline=12" />
   </a>
 </p>
 
