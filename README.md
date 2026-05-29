@@ -26,7 +26,8 @@ This section details the milestones a developer actively progresses through, ste
 </p>
 
 <table>
-<tr><td valign="top" width="50%">
+<tr>
+<td valign="top" width="25%">
 
 **Frontend & Design**
 * React.js
@@ -38,13 +39,8 @@ This section details the milestones a developer actively progresses through, ste
 * HTML5 Canvas
 * Responsive UI/UX
 
-**Databases & Data Management**
-* Firebase (NoSQL)
-* PostgreSQL
-* MySQL
-* SQL Server
-
-</td><td valign="top" width="50%">
+</td>
+<td valign="top" width="25%">
 
 **Backend & Systems**
 * Node.js
@@ -58,20 +54,35 @@ This section details the milestones a developer actively progresses through, ste
 * WebGPU / ONNX Runtime
 * Vision Transformers (ViT)
 
-**Hosting & Cloud Deployment**
+</td>
+<td valign="top" width="25%">
+
+**Databases & Data**
+* Firebase (NoSQL)
+* PostgreSQL
+* MySQL
+* SQL Server
+
+**Hosting & Cloud**
 * Firebase / Cloud
 * Vercel / Next.js
 * GitHub Pages
 * GoDaddy
+* Render
+* Railway
 
-**Professional Tooling Suite**
+</td>
+<td valign="top" width="25%">
+
+**Professional Tooling**
 * Docker / Container
 * VS Code
 * Postman
 * Git / GitHub
 * Android Studio
 
-</td></tr>
+</td>
+</tr>
 </table>
 
 ### Developer Metrics
