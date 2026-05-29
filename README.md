@@ -29,7 +29,7 @@ This section details the milestones a developer actively progresses through, ste
 
 | | |
 | :--- | :--- |
-| <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chanii2024&show_icons=true&theme=tokyonight&hide_border=true" height="195" /> | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chanii2024&layout=compact&theme=tokyonight&hide_border=true" height="195" /> |
+| <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChaniruWeerasinghe&show_icons=true&theme=tokyonight&hide_border=true" height="195" /> | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChaniruWeerasinghe&layout=compact&theme=tokyonight&hide_border=true" height="195" /> |
 
 ---
 <p align="center">
